@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Haseeb1604/Haseeb1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/">CUSIT Peshawar</a> and a self-thought Front End Developer based in Pakistan 🇵🇰 Looking forward to learning Full Stack Development. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Portfolio
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to work Freelance
+- 🤔 I’m looking for help with Back-End
+- 💬 Ask me about Front End Dev
+- 📫 How to reach me: [Email](mhaseeb1604@gmail.com), [Twitter](https://twitter.com/mhaseeb1604)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If I'm not found here , I'll most probably be Learning New Framework or Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/><br/><br/>
+**[Visit my website &rarr;](https://mhaseeb1604.netlify.app/)**
