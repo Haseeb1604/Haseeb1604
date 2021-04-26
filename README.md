@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/Haseeb1604/Haseeb1604/blob/main/wave.gif" width='26px'/>
 
-I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/">CUSIT Peshawar</a> and a self-thought Front End Developer based in Pakistan 🇵🇰 Looking forward to learning Full Stack Development. 
+I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" >CUSIT Peshawar</a> and a self-thought Front End Developer based in Pakistan 🇵🇰 Looking forward to learning Full Stack Development. 
 
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Web Development
