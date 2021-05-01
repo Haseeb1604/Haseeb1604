@@ -7,7 +7,7 @@ I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a hr
 - 👯 I’m looking to work Freelance
 - 🤔 I’m looking for help with Back-End
 - 💬 Ask me about Front End Dev
-- 📫 How to reach me: [Email](mhaseeb1604@gmail.com), [LinkedIn](https://www.linkedin.com/in/mhaseeb1604) , [Twitter](https://twitter.com/mhaseeb1604)
+- 📫 How to reach me: <a href="mailto:mhaseeb1604@gmail.com" target="_blank">Email</a>, [LinkedIn](https://www.linkedin.com/in/mhaseeb1604) , [Twitter](https://twitter.com/mhaseeb1604)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I'm not found here , I'll most probably be Learning New Framework or Language
 
