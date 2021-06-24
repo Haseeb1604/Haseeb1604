@@ -27,6 +27,7 @@ I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a hr
 
 
 ## 📖  What I am currently learning / improving on
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
