@@ -2,8 +2,8 @@
 
 I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a> and a self-thought Front End Developer based in Pakistan 🇵🇰 Looking forward to learning Full Stack Development. 
 
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on a Chat App
+- 🌱 I’m currently learning PHP Development
 - 👯 I’m looking to work Freelance
 - 🤔 I’m looking for help with Back-End
 - 💬 Ask me about Front End Dev
