@@ -1,11 +1,11 @@
 ### Hi there <img src="https://github.com/Haseeb1604/Haseeb1604/blob/main/wave.gif" width='26px'/>
 
-I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a> and a self-thought Front End Developer based in Pakistan 🇵🇰 Looking forward to learning Full Stack Development. 
+I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a> and a self-thought Web Developer based in Pakistan 🇵🇰 Looking forward to learning Machine Learning. 
 
-- 🔭 I’m currently working on a Chat App
-- 🌱 I’m currently learning PHP Development
+- 🔭 I’m currently working on a Gemstone Identification API
+- 🌱 I’m currently learning Machine Learning & Flask RestFul
 - 👯 I’m looking to work Freelance
-- 🤔 I’m looking for help with Back-End
+- 🤔 I’m looking for help in Machine learning
 - 💬 Ask me about Front End Dev
 - 📫 How to reach me: [Email](mailto:mhaseeb1604@gmail.com), [LinkedIn](https://www.linkedin.com/in/mhaseeb1604) , [Twitter](https://twitter.com/mhaseeb1604)
 - 😄 Pronouns: He/Him
