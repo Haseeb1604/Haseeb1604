@@ -1,6 +1,6 @@
-### Hi there <img src="https://github.com/Haseeb1604/Haseeb1604/blob/main/wave.gif" width='26px'/>
-
-I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a> and a self-thought Web Developer based in Pakistan 🇵🇰 Looking forward to learning Machine Learning. 
+<h1 align="center">Hi 👋, I'm Muhammad Haseeb</h1>
+<h3 align="center">Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a> and a self-thought Web Developer based in Pakistan 🇵🇰 Looking forward to learning Machine Learning. 
+</h3>
 
 - 🔭 I’m currently working on a Gemstone Identification API
 - 🌱 I’m currently learning Machine Learning & Flask RestFul
@@ -32,6 +32,28 @@ I'm Muhammad Haseeb, Currently Enrolled in Software Engineering Program at <a hr
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/haseeeb1604" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 0 5px 5px;" />
+</a>
+<a href="https://twitter.com/mhaseeeb1604" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin: 0 5px 5px;" />
+</a>
+<a href="https://dev.to/mhaseeeb1604" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin: 0 5px 5px;" />
+</a>
+<a href="https://linkedin.com/in/mhaseeeb1604" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 0 5px 5px;" />
+</a>
+<a href="https://www.facebook.com/mhk.1604" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin: 0 5px 5px;" />
+</a>
+<a href="https://instagram.com/mhaseeeb1604" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 0 5px 5px;" />
+</a>  
+</div>  
 
 <br/><br/>
 **[Visit my website &rarr;](https://mhaseeb1604.netlify.app/)**
