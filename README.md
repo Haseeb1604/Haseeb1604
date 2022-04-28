@@ -41,7 +41,7 @@
 <a href="https://twitter.com/mhaseeeb1604" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin: 0 5px 5px;" />
 </a>
-<a href="https://dev.to/mhaseeeb1604" target="_blank">
+<a href="https://dev.to/mhaseeb1604" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin: 0 5px 5px;" />
 </a>
 <a href="https://linkedin.com/in/mhaseeeb1604" target="_blank">
