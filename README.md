@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb</h1>
-<h3 align="center">Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a> and an ML Enthusiast started working on Natural Language Processing. 
+<h3 align="center">Currently Enrolled in Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a> and Python Developer working on ML/DL and FastAPI. 
 </h3>
 
-- 🔭 Currently working on a Urdu News Sentiment Analysis & Voice Transcribe
-- 🌱 Currently learning Deep Learning & Natural Language Processing
-- 🤝 Active Community Worker, Leading GDSC and MLSA
+- 🔭 Currently working on an Urdu News Sentiment Analysis Research, Weather Forecasting and FastAPIs
+- 🌱 Currently learning Deep Learning, Natural Language Processing, FastAPIs
+- 🤝 Active Community Worker, xGDSC, Beta MLSA, and GDG Peshawar member
 - 👯 Looking to work Freelance
-- 🤔 Looking for help in Deep Learning
-- 💬 Ask me about Front End Dev or Machine Learning
+- 🤔 Looking for help in FastAPIs
+- 💬 Ask me about Machine Learning/Deep Learning, or Communities
 - 📫 How to reach me: [Email](mailto:mhaseeb1604@gmail.com), [LinkedIn](https://www.linkedin.com/in/mhaseeb1604) , [Twitter](https://twitter.com/mhaseeb1604)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If I'm not found here , I'll most probably be Learning New Framework or Language
+- ⚡ Fun fact: If I'm not found here, I'll most probably be Learning something new or engaged in Community Work or Public Speaking
 
 ## ⚡ Technologies
 
@@ -26,7 +26,7 @@
 ![Colab](	https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
 
 
-## 📖  What I am currently learning / improving on
+## 📖  What I am currently learning/improving on
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-%2315AABF.svg?style=flat-square&logo=nltk&logoColor=white)
