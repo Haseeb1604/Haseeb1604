@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-haseebai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/mhaseeb1604">
-    <img src="https://img.shields.io/badge/X-mhaseeb1604-000000?style=flat-square&logo=x&logoColor=white" />
+  <a href="https://x.com/Haseebai_tech">
+    <img src="https://img.shields.io/badge/X-Haseebai__tech-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://topmate.io/haseebai">
@@ -26,7 +26,7 @@
 
 ## About
 
-I build production Agentic RAG systems for teams in legal, energy, and government where accuracy, traceability, and reliability are non-negotiable. Currently at **Stixor Technologies**, shipping AI across enterprise verticals.
+I build production Agentic RAG systems for regulated industries as an independent AI engineer. Previously at Stixor Technologies, where I shipped the Malakah legal AI assistant and the MARI Energies enterprise search system.
 
 > *"The hardest problem in production AI isn't the LLM. It's building where compliance and auditability aren't nice-to-haves. They're the architecture."*
 
