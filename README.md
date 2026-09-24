@@ -116,16 +116,6 @@ I build production Agentic RAG systems for regulated industries as an independen
 
 <br/>
 
-## Community
-
-| Role | Organisation | Impact |
-|---|---|---|
-| ML/DL Track Lead | Bytewise Limited | Mentored 30+ learners across CNNs, transformers, and deployment |
-| Campus Lead | Google Developer Student Clubs, CUSIT | 35+ events, 9K+ attendees, 1 of 76 GDSC leads nationwide |
-| Outreach Lead | GDG Peshawar | 1.3K+ participants at DevFest, 20+ volunteers coordinated |
-
-<br/>
-
 ## Let's build something
 
 If you're building production AI for a regulated industry, or need an architecture review, the
